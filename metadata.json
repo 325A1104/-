@@ -1,0 +1,6 @@
+{
+  "name": "青い季節の真ん中へ - Aoi Kisetsu",
+  "description": "透明感あふれる海と空の色彩に包まれる、心安らぐサマーソング・エクスペリエンスサイト。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
